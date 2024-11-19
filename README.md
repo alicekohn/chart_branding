@@ -1,1 +1,1 @@
-# chart_branding
+# Branding Chart
